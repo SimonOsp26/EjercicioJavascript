@@ -1,0 +1,1 @@
+alert('Hola Mundo'); //muestra una alerta que muestra lo que muestra lo que escribimos de ntro de los parentesis//
